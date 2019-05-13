@@ -1,7 +1,7 @@
-#MAIN DNS ZONE
+# MAIN DNS ZONE
 A small diagram of how the DNS zones are set up.
 
-##DIRECT ZONE
+## DIRECT ZONE
 ![DNS_1](https://github.com/nic1551/Sintesi_ASIR/blob/master/DNS/captura_DNS_MAIN_CONFIG_smartfix.PNG).
 ![DNS_3](https://github.com/nic1551/Sintesi_ASIR/blob/master/DNS/captura_DNS_smartfix_1.PNG).
 
