@@ -6,4 +6,4 @@ We have to modify it. It must contain the port (<Virtual asterisk:80> in my case
 
 Additionally we have two aliases. One is the web page and the other is the index.php script.
 
-[!MAIN_1](https://github.com/nic1551/Sintesi_ASIR/blob/master/PRESTASHOP/CONFIG/MAIN_CONFIG.PNG).
+![MAIN_1](https://github.com/nic1551/Sintesi_ASIR/blob/master/PRESTASHOP/CONFIG/MAIN_CONFIG.PNG).
