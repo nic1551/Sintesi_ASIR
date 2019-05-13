@@ -16,6 +16,8 @@ A very simple function that connects to the prestashop database.
 ### WHAT IS IT AND WHAT DOES IT DO?
 A little more complex than the last script. What this script does is select rows and import them into the database.
 ![FUNCTION_1](https://github.com/nic1551/Sintesi_ASIR/blob/master/CONFIG/FUNCTIONS.PHP_1.PNG).
+
+
 Lets break it down:
 
 Inside the first IF there are some parametres that allow the script identify a temporary name to the input file. The second IF only runs when the file size is more than 0 bytes. In other words it will not allow empty files logically. Moving on to the main part of the program. 
@@ -31,5 +33,5 @@ Finally it will then export the records into a custom designed table
 ![FUNCTION_3](https://github.com/nic1551/Sintesi_ASIR/blob/master/CONFIG/FUNCTIONS.PHP_3.PNG).
 
 
-# CONFIGURATION OF TH[alt text]E MAIN SCRIPT
+
 
