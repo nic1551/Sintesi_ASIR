@@ -16,3 +16,6 @@ Breaking down the first one. The only important option is the Require all grante
 The second one is open only to those who access the /tools section. It allows the autenticated users to enter the import tool.
 
 ![MAIN_2](https://github.com/nic1551/Sintesi_ASIR/blob/master/PRESTASHOP/CONFIG/MAIN_CONFIG_2.PNG).
+
+![MAIN_3](https://github.com/nic1551/Sintesi_ASIR/blob/master/PRESTASHOP/CONFIG/MAIN_CONFIG_3.PNG).
+
