@@ -7,3 +7,5 @@ https://linuxhostsupport.com/blog/how-to-install-prestashop-on-ubuntu-16-04/
 https://www.experts-exchange.com/questions/27820454/Redirect-php-with-onClick-button.html
 
 http://incvice.com/prestashop-mysql-database-tables-explained/
+
+https://upcloud.com/community/tutorials/configure-load-balancing-nginx/
