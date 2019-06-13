@@ -19,3 +19,13 @@ The second one is open only to those who access the /tools section. It allows th
 
 ![MAIN_3](https://github.com/nic1551/Sintesi_ASIR/blob/master/PRESTASHOP/CONFIG/MAIN_CONFIG_3.PNG).
 
+
+Here we have an image of the backend: ![bACKEND_1](https://github.com/nic1551/Sintesi_ASIR/blob/master/PRESTASHOP/CONFIG/Backend.PNG)
+
+This is how the frontend will look like. This is what the clients will see: ![FRONTEND_1](https://github.com/nic1551/Sintesi_ASIR/blob/master/PRESTASHOP/CONFIG/frontend.PNG)
+
+
+An image of the script in process: ![Import1](https://github.com/nic1551/Sintesi_ASIR/blob/master/PRESTASHOP/CONFIG/import_1.PNG)
+
+
+
